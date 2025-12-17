@@ -2,6 +2,10 @@
 
 This repository documents the reverse engineering efforts of the **SES-imagotag Vusion 2.6** Electronic Shelf Label (ESL).
 
+![Vusion 2.6 Display](media/screen.jpg)
+
+![Vusion 2.6 Display](media/back.jpg)
+
 ## Hardware Overview
 
 The Vusion 2.5/2.6 ESL is built around the **Silicon Labs EFR32FG22** microcontroller, which is a:
@@ -16,6 +20,8 @@ The Vusion 2.5/2.6 ESL is built around the **Silicon Labs EFR32FG22** microcontr
 - **MCU**: Silicon Labs EFR32FG22
 - **Power**: Battery-powered with extended battery life
 - **Use Case**: Retail price tag and product information display
+
+![Vusion 2.6 Display](media/vusion-2.6.jpg)
 
 ## Legal Notice
 
