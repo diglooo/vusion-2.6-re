@@ -13,7 +13,7 @@ This repository documents the reverse engineering efforts of the **SES-imagotag 
 ![Vusion 2.6 Display](media/back.jpg)
 
 ## PCB reverse engineering 
-- E-paper display pinout, functionally identical to a Pervasive Displays E2213KS0E1 or E2266KS0C1
+- E-paper display pinout, functionally identical to a Pervasive Displays E2213KS0E1 or E2266QS0F1
 - MCU pinout
 
 ![Vusion 2.6 Display](media/vusion-2.6.jpg)
